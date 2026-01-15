@@ -1,0 +1,465 @@
+[
+  {
+    "id": 1,
+    "name": "Kashi Vishwanath Temple",
+    "location": "Varanasi, Uttar Pradesh",
+    "description": "Kashi Vishwanath Temple is one of the holiest shrines dedicated to Lord Shiva and is believed to grant liberation from the cycle of birth and death. Located on the banks of the River Ganga, it has been destroyed and rebuilt several times through history, standing today as a powerful symbol of enduring faith and devotion.",
+    "significance": [
+      "One of the 12 Jyotirlingas of Lord Shiva",
+      "Considered the holiest Shiva temple in India"
+    ],
+    "timings": {
+      "weekdays": "3:00 AM – 11:00 PM",
+      "weekends": "3:00 AM – 11:00 PM"
+    },
+    "peakCrowd": [
+      "Maha Shivaratri and Mondays of Shravan month",
+      "Best to visit early morning on weekdays for shorter queues"
+    ],
+    "biggestHighlight": "Jyotirlinga darshan with direct connection to Moksha belief",
+    "nearestAccess": {
+      "airport": "Varanasi International Airport",
+      "railway": "Varanasi Junction",
+      "road": "Easily accessible by road within the city"
+    },
+    "image": "kashi-temple.jpg",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3606.80207178174!2d83.00591469678956!3d25.310853200000015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x398e2e21ee940b17%3A0x48600e4fcdfb7b13!2sShri%20Kashi%20Vishwanath%20Temple!5e0!3m2!1sen!2sin!4v1768504444484!5m2!1sen!2sin"
+  },
+  {
+    "id": 2,
+    "name": "Somnath Temple",
+    "location": "Veraval, Gujarat",
+    "description": "Somnath Temple is regarded as the first among the twelve Jyotirlingas of Lord Shiva and holds immense historical and spiritual significance. The temple has been reconstructed multiple times after repeated invasions, representing resilience, continuity, and unwavering belief.",
+    "significance": [
+      "First among the 12 Jyotirlingas of Lord Shiva",
+      "Rebuilt multiple times symbolizing resilience of faith"
+    ],
+    "timings": {
+      "weekdays": "6:00 AM – 9:00 PM",
+      "weekends": "6:00 AM – 9:00 PM"
+    },
+    "peakCrowd": [
+      "Maha Shivaratri and Shravan month",
+      "Weekdays outside festivals are calmer"
+    ],
+    "biggestHighlight": "Seaside temple with evening aarti and sound & light show",
+    "nearestAccess": {
+      "airport": "Diu Airport",
+      "railway": "Veraval Railway Station",
+      "road": "Road connectivity from major Gujarat cities"
+    },
+    "image": "somnath-temple.png",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3727.6043954855413!2d70.39868197503982!3d20.88798988072637!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bfd329f0417cb75%3A0x2f5a510de9857963!2sShree%20Somnath%20Temple!5e0!3m2!1sen!2sin!4v1768506172580!5m2!1sen!2sin"
+  },
+  {
+    "id": 3,
+    "name": "Kedarnath Temple",
+    "location": "Rudraprayag, Uttarakhand",
+    "description": "Situated high in the Himalayas, Kedarnath Temple is one of the Char Dham pilgrimage sites and a revered Jyotirlinga of Lord Shiva. Built with massive stone slabs, the temple has withstood extreme natural conditions and famously survived the 2013 floods, reinforcing its sacred stature.",
+    "significance": [
+      "One of the Char Dham and 12 Jyotirlingas",
+      "Located at 11,755 ft in the Himalayas"
+    ],
+    "timings": {
+      "weekdays": "4:00 AM – 9:00 PM (Seasonally Apr/May to Oct/Nov)",
+      "weekends": "4:00 AM – 9:00 PM (Seasonally Apr/May to Oct/Nov)"
+    },
+    "peakCrowd": [
+      "May-June pilgrimage peak",
+      "September is best for fewer crowds and clear weather"
+    ],
+    "biggestHighlight": "Ancient stone temple amidst snow-clad mountains",
+    "nearestAccess": {
+      "airport": "Jolly Grant (Dehradun)",
+      "railway": "Rishikesh",
+      "road": "Trek from Gaurikund"
+    },
+    "image": "kedarnath.png",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3429.4226757088877!2d79.06431937538461!3d30.734626674583332!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39083ee08aa6b0b5%3A0xdbbdae8b9602ee02!2sShri%20Kedarnath%20Jyotirlinga%20Temple!5e0!3m2!1sen!2sin!4v1768506437772!5m2!1sen!2sin"
+  },
+  {
+    "id": 4,
+    "name": "Badrinath Temple",
+    "location": "Chamoli, Uttarakhand",
+    "description": "Badrinath Temple is dedicated to Lord Vishnu and is an important part of the Char Dham yatra. Nestled along the Alaknanda River, the temple remains open only during summer months due to harsh winters, and the deity is worshipped in a rare meditative posture.",
+    "significance": [
+      "One of the Char Dham dedicated to Lord Vishnu",
+      "Located along the Alaknanda River"
+    ],
+    "timings": {
+      "weekdays": "4:30 AM – 9:00 PM (Seasonally May to Oct)",
+      "weekends": "4:30 AM – 9:00 PM (Seasonally May to Oct)"
+    },
+    "peakCrowd": [
+      "May-June peak yatra season",
+      "September ideal for peaceful darshan"
+    ],
+    "biggestHighlight": "Vishnu idol worshipped in meditative posture",
+    "nearestAccess": {
+      "airport": "Dehradun",
+      "railway": "Rishikesh",
+      "road": "Road journey through Chamoli"
+    },
+    "image": "badrinath-temple.png",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3429.0613477721768!2d79.48850297538499!3d30.74477822457844!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39a78c1fc736a8e5%3A0xb19c97240a0e94ef!2sShri%20Badarinath%20Dham!5e0!3m2!1sen!2sin!4v1768506523074!5m2!1sen!2sin"
+  },
+  {
+    "id": 5,
+    "name": "Ramanathaswamy Temple",
+    "location": "Rameswaram, Tamil Nadu",
+    "description": "Ramanathaswamy Temple is renowned for its magnificent corridors, which are the longest among all Hindu temples. It is one of the twelve Jyotirlingas and a Char Dham site, where pilgrims perform ritual baths in sacred wells before seeking darshan.",
+    "significance": [
+      "One of the Char Dham and Jyotirlingas",
+      "Famous for longest temple corridors in India"
+    ],
+    "timings": {
+      "weekdays": "5:00 AM – 9:00 PM",
+      "weekends": "5:00 AM – 9:00 PM"
+    },
+    "peakCrowd": [
+      "Maha Shivaratri and Amavasya",
+      "Early mornings on weekdays are peaceful"
+    ],
+    "biggestHighlight": "22 holy water theertham baths inside temple",
+    "nearestAccess": {
+      "airport": "Madurai",
+      "railway": "Rameswaram",
+      "road": "Road from Madurai"
+    },
+    "image": "ramanathaswamy-temple.png",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3937.508694136593!2d79.31481697479717!3d9.288113590783926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b01e3dc4949ac6d%3A0x9ffdab70cc4aa4ba!2sSri%20Arulmigu%20Ramanathaswamy%20Temple!5e0!3m2!1sen!2sin!4v1768507297917!5m2!1sen!2sin"
+  },
+  {
+    "id": 6,
+    "name": "Meenakshi Amman Temple",
+    "location": "Madurai, Tamil Nadu",
+    "description": "Meenakshi Amman Temple is the heart of Madurai and a masterpiece of Dravidian architecture. Dedicated to Goddess Meenakshi and Lord Sundareswarar, the temple is known for its towering gopurams covered with vibrant sculptures and its rich cultural heritage.",
+    "significance": [
+      "Historic Dravidian temple dedicated to Goddess Meenakshi",
+      "Architectural masterpiece with colorful gopurams"
+    ],
+    "timings": {
+      "weekdays": "5:00 AM – 12:30 PM, 4:00 PM – 9:30 PM",
+      "weekends": "5:00 AM – 12:30 PM, 4:00 PM – 9:30 PM"
+    },
+    "peakCrowd": [
+      "Meenakshi Tirukalyanam (Apr-May)",
+      "Weekday mornings best for darshan"
+    ],
+    "biggestHighlight": "Celestial wedding of Meenakshi and Sundareswarar",
+    "nearestAccess": {
+      "airport": "Madurai",
+      "railway": "Madurai Junction",
+      "road": "City buses and autos available"
+    },
+    "image": "meenakshi-amman-temple.jpg",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3930.1734944640816!2d78.11676687480563!3d9.919504490181849!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b00c58461e46987%3A0xf134621ce5286703!2sMeenakshi%20Amman%20Temple!5e0!3m2!1sen!2sin!4v1768508416886!5m2!1sen!2sin"
+  },
+  {
+    "id": 7,
+    "name": "Jagannath Temple",
+    "location": "Puri, Odisha",
+    "description": "Jagannath Temple is one of the four Char Dham pilgrimage sites and follows unique rituals distinct from other temples. The annual Rath Yatra, during which the deities are taken out in massive chariots, attracts millions of devotees from across the world.",
+    "significance": [
+      "One of the Char Dham",
+      "Lord Jagannath worshipped with unique rituals"
+    ],
+    "timings": {
+      "weekdays": "5:00 AM – 10:00 PM",
+      "weekends": "5:00 AM – 10:00 PM"
+    },
+    "peakCrowd": [
+      "Rath Yatra (June-July) maximum crowd",
+      "Non-festival weekdays are manageable"
+    ],
+    "biggestHighlight": "Rath Yatra where deities come out to devotees",
+    "nearestAccess": {
+      "airport": "Bhubaneswar",
+      "railway": "Puri Railway Station",
+      "road": "Well-connected by road"
+    },
+    "image": "jagannath-temple-puri.png",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3753.826839686823!2d85.81536367500952!3d19.804937881555585!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a19c6b8bfe386af%3A0x8f052c84639c7d48!2sShree%20Jagannatha%20Temple%20Puri!5e0!3m2!1sen!2sin!4v1768508511783!5m2!1sen!2sin"
+  },
+  {
+    "id": 8,
+    "name": "Dwarkadhish Temple",
+    "location": "Dwarka, Gujarat",
+    "description": "Dwarkadhish Temple is believed to stand at the site of Lord Krishna's ancient kingdom. The temple holds great significance for Vaishnavites, and archaeological findings of a submerged city near Dwarka add to its historical and spiritual importance.",
+    "significance": ["One of the Char Dham", "Dedicated to Lord Krishna"],
+    "timings": {
+      "weekdays": "6:30 AM – 1:00 PM, 5:00 PM – 9:30 PM",
+      "weekends": "6:30 AM – 1:00 PM, 5:00 PM – 9:30 PM"
+    },
+    "peakCrowd": ["Janmashtami peak", "Weekdays offer relaxed darshan"],
+    "biggestHighlight": "Believed to be Krishna's ancient kingdom",
+    "nearestAccess": {
+      "airport": "Jamnagar",
+      "railway": "Dwarka",
+      "road": "Road from Jamnagar"
+    },
+    "image": "dwarikadashi-temple.png",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3693.0631913592892!2d68.9647832750798!3d22.23768107973167!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39569c3ab7c4e9e5%3A0x31b7c3111df48f4!2sDwarkadhish%20Temple!5e0!3m2!1sen!2sin!4v1768508560892!5m2!1sen!2sin"
+  },
+  {
+    "id": 9,
+    "name": "Vaishno Devi Temple",
+    "location": "Katra, Jammu & Kashmir",
+    "description": "Vaishno Devi Temple is one of the most visited Shakti shrines in India, located in the Trikuta Hills. The Goddess is worshipped in the form of natural rock manifestations, and the pilgrimage involves a challenging trek symbolizing devotion and perseverance.",
+    "significance": [
+      "One of the most visited Shakti Peeths",
+      "Located in Trikuta Hills"
+    ],
+    "timings": {
+      "weekdays": "Open 24 hours",
+      "weekends": "Open 24 hours"
+    },
+    "peakCrowd": ["Navratri and summer vacations", "September weekdays best"],
+    "biggestHighlight": "Natural rock formations of the Goddess",
+    "nearestAccess": {
+      "airport": "Jammu",
+      "railway": "Katra",
+      "road": "Trek or helicopter from Katra"
+    },
+    "image": "vaishno-devi.webp",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d429126.5583443603!2d74.53624092598318!3d32.830653569168085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391e786b6985aaad%3A0xa04ab611af048191!2sVaishno%20Devi!5e0!3m2!1sen!2sin!4v1768508614265!5m2!1sen!2sin"
+  },
+  {
+    "id": 10,
+    "name": "Sabarimala Temple",
+    "location": "Pathanamthitta, Kerala",
+    "description": "Sabarimala Temple is dedicated to Lord Ayyappa and is known for its strict pilgrimage traditions. Devotees observe a forty-one-day period of penance before undertaking the journey, making it one of the largest and most disciplined pilgrimages in the world.",
+    "significance": [
+      "Dedicated to Lord Ayyappa",
+      "Follows strict pilgrimage traditions"
+    ],
+    "timings": {
+      "weekdays": "3:00 AM onwards (Open only during specific seasons)",
+      "weekends": "3:00 AM onwards (Open only during specific seasons)"
+    },
+    "peakCrowd": [
+      "Mandala-Makaravilakku season (Nov-Jan)",
+      "Off-season days are less crowded"
+    ],
+    "biggestHighlight": "41-day vratham and sacred forest trek",
+    "nearestAccess": {
+      "airport": "Kochi",
+      "railway": "Kottayam",
+      "road": "Road to Pamba + trek"
+    },
+    "image": "shabarimala-temple.jpg",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31487.90604728549!2d77.05038044340674!3d9.422432151934032!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b065b984dd41c11%3A0x953037d850a3006e!2sSabarimala%2C%20Kerala!5e0!3m2!1sen!2sin!4v1768508666751!5m2!1sen!2sin"
+  },
+  {
+    "id": 11,
+    "name": "Golden Temple",
+    "location": "Amritsar, Punjab",
+    "description": "The Golden Temple is the holiest shrine of Sikhism and a symbol of equality and humility. It welcomes people of all religions and operates a community kitchen that serves free meals to thousands of visitors every day.",
+    "significance": [
+      "Holiest shrine of Sikhism",
+      "Open to people of all faiths"
+    ],
+    "timings": {
+      "weekdays": "Open 24 hours",
+      "weekends": "Open 24 hours"
+    },
+    "peakCrowd": ["Guru Nanak Jayanti", "Early mornings are peaceful"],
+    "biggestHighlight": "Community kitchen (Langar) serving thousands daily",
+    "nearestAccess": {
+      "airport": "Amritsar",
+      "railway": "Amritsar Junction",
+      "road": "Central city location"
+    },
+    "image": "golden-temple.jpg",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3397.3393787326772!2d74.8742703754217!3d31.624556974166406!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39197d006b77c8bb%3A0xc3f58e7c78de544e!2sGolden%20temple%20punjab!5e0!3m2!1sen!2sin!4v1768508719737!5m2!1sen!2sin"
+  },
+  {
+    "id": 12,
+    "name": "Akshardham Temple",
+    "location": "New Delhi, Delhi",
+    "description": "Akshardham Temple is a grand cultural and spiritual complex showcasing traditional Indian architecture. Built entirely with stone and ancient construction techniques, it reflects the teachings of Bhagwan Swaminarayan and India's rich spiritual heritage.",
+    "significance": [
+      "Modern architectural marvel",
+      "Dedicated to Bhagwan Swaminarayan"
+    ],
+    "timings": {
+      "weekdays": "10:00 AM – 6:30 PM (Closed on Mondays)",
+      "weekends": "10:00 AM – 6:30 PM"
+    },
+    "peakCrowd": ["Weekends and holidays", "Weekday afternoons less crowded"],
+    "biggestHighlight": "Grand carvings and cultural exhibitions",
+    "nearestAccess": {
+      "airport": "Delhi IGI",
+      "railway": "Akshardham Metro Station",
+      "road": "Easily accessible"
+    },
+    "image": "akshardhama-temple.jpg",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3558.040212164829!2d75.73804757523592!3d26.902218876653354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396db499daa64d33%3A0xdf2938c5f09a5ece!2sBAPS%20Shri%20Swaminarayan%20Akshardham%20Mandir%2C%20Jaipur!5e0!3m2!1sen!2sin!4v1768508765467!5m2!1sen!2sin"
+  },
+  {
+    "id": 13,
+    "name": "Tiruvannamalai Arunachaleswarar Temple",
+    "location": "Tiruvannamalai, Tamil Nadu",
+    "description": "Arunachaleswarar Temple represents the fire element among the Pancha Bhoota Sthalams dedicated to Lord Shiva. The temple is closely associated with the sacred Arunachala Hill, where circumambulation is considered a powerful spiritual practice.",
+    "significance": [
+      "One of Pancha Bhoota temples (Fire element)",
+      "Dedicated to Lord Shiva"
+    ],
+    "timings": {
+      "weekdays": "5:30 AM – 9:30 PM",
+      "weekends": "5:30 AM – 9:30 PM"
+    },
+    "peakCrowd": ["Pournami Girivalam (full moon)", "Best darshan on weekdays"],
+    "biggestHighlight": "Girivalam (14 km circumambulation of hill)",
+    "nearestAccess": {
+      "airport": "Chennai",
+      "railway": "Tiruvannamalai",
+      "road": "Road from Chennai"
+    },
+    "image": "tiruvannamalai-arunachaleswarar-temple.jpg",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3899.2454462205137!2d79.06518637484136!3d12.231653288019844!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bacc0888c761eeb%3A0x2bbbe52dd9d1f2b2!2sArunachaleswarar%20Temple!5e0!3m2!1sen!2sin!4v1768508812141!5m2!1sen!2sin"
+  },
+  {
+    "id": 14,
+    "name": "Kamakhya Temple",
+    "location": "Guwahati, Assam",
+    "description": "Kamakhya Temple is one of the most important Shakti Peethas in India and a major center of tantric worship. The temple is unique for celebrating the fertility cycle of the Goddess, especially during the annual Ambubachi Mela.",
+    "significance": ["Major Shakti Peeth", "Center of Tantric worship"],
+    "timings": {
+      "weekdays": "5:30 AM – 10:00 PM",
+      "weekends": "5:30 AM – 10:00 PM"
+    },
+    "peakCrowd": ["Ambubachi Mela (June)", "Non-mela weekdays quieter"],
+    "biggestHighlight": "Unique fertility worship tradition",
+    "nearestAccess": {
+      "airport": "Guwahati",
+      "railway": "Guwahati",
+      "road": "Short road journey"
+    },
+    "image": "kamakhya-temple.jpg",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3580.9299488969095!2d91.70292817520944!3d26.166410777099877!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x375a5b04b0f06ef1%3A0xaaad40304c7d3d1d!2sMaa%20Kamakhya%20Temple!5e0!3m2!1sen!2sin!4v1768508863459!5m2!1sen!2sin"
+  },
+  {
+    "id": 15,
+    "name": "Lingaraja Temple",
+    "location": "Bhubaneswar, Odisha",
+    "description": "Lingaraja Temple is an ancient Shiva temple and a fine example of Kalinga-style architecture. Dedicated to Harihara, a combined form of Shiva and Vishnu, it stands as a central spiritual landmark of Bhubaneswar.",
+    "significance": ["Ancient Shiva temple", "Kalinga architectural style"],
+    "timings": {
+      "weekdays": "5:00 AM – 9:00 PM",
+      "weekends": "5:00 AM – 9:00 PM"
+    },
+    "peakCrowd": ["Maha Shivaratri", "Morning hours best"],
+    "biggestHighlight": "1000-year-old living temple",
+    "nearestAccess": {
+      "airport": "Bhubaneswar",
+      "railway": "Bhubaneswar",
+      "road": "City roads"
+    },
+    "image": "lingaraja-temple.jpg",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3743.4912382044376!2d85.82890577915744!3d20.23845183279848!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a19a726c8ffc807%3A0x212845f89456a2cd!2sLingaraj%20Temple!5e0!3m2!1sen!2sin!4v1768508907582!5m2!1sen!2sin"
+  },
+  {
+    "id": 16,
+    "name": "Mahakaleshwar Temple",
+    "location": "Ujjain, Madhya Pradesh",
+    "description": "Mahakaleshwar Temple is one of the twelve Jyotirlingas and is unique for its south-facing Shiva lingam. The temple is especially famous for the early morning Bhasma Aarti, which draws devotees from across the country.",
+    "significance": ["One of 12 Jyotirlingas", "Famous for Bhasma Aarti"],
+    "timings": {
+      "weekdays": "4:00 AM – 11:00 PM",
+      "weekends": "4:00 AM – 11:00 PM"
+    },
+    "peakCrowd": ["Maha Shivaratri", "Early morning darshan recommended"],
+    "biggestHighlight": "Unique south-facing Jyotirlinga",
+    "nearestAccess": {
+      "airport": "Indore",
+      "railway": "Ujjain",
+      "road": "Road from Indore"
+    },
+    "image": "mahakaleshwar-temple.jpg",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3743.444608515248!2d85.8288781750215!3d20.240387481218917!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a19a723da4fffff%3A0x6a8c6b46b0bdf544!2sMahakaleshwar%20Temple!5e0!3m2!1sen!2sin!4v1768508953709!5m2!1sen!2sin"
+  },
+  {
+    "id": 17,
+    "name": "Brihadeeswarar Temple",
+    "location": "Thanjavur, Tamil Nadu",
+    "description": "Brihadeeswarar Temple, built by Raja Raja Chola, is a UNESCO World Heritage Site and a marvel of ancient engineering. Constructed entirely of granite, the temple's towering vimana reflects the architectural excellence of the Chola dynasty.",
+    "significance": ["UNESCO World Heritage Site", "Built by Raja Raja Chola"],
+    "timings": {
+      "weekdays": "6:00 AM – 12:30 PM, 4:00 PM – 8:30 PM",
+      "weekends": "6:00 AM – 12:30 PM, 4:00 PM – 8:30 PM"
+    },
+    "peakCrowd": ["Maha Shivaratri", "Weekday mornings peaceful"],
+    "biggestHighlight": "Massive Nandi and towering vimana",
+    "nearestAccess": {
+      "airport": "Trichy",
+      "railway": "Thanjavur",
+      "road": "Road connectivity"
+    },
+    "image": "brihadeeswarar-temple.jpg",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3913.746540926807!2d79.44690967482461!3d11.206379388969685!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a54d435fc34411d%3A0xb024f2cefef6555b!2sArulmigu%20Peruvudaiyar%20Temple%2C%20Gangaikonda%20Cholapuram!5e0!3m2!1sen!2sin!4v1768508992171!5m2!1sen!2sin"
+  },
+  {
+    "id": 18,
+    "name": "Chidambaram Nataraja Temple",
+    "location": "Chidambaram, Tamil Nadu",
+    "description": "Chidambaram Nataraja Temple is dedicated to Lord Shiva in his cosmic dancer form. It represents the element of space and is renowned for the Chidambara Rahasyam, symbolizing the concept of formless divinity.",
+    "significance": [
+      "Dedicated to Lord Shiva as cosmic dancer",
+      "One of Pancha Bhoota (Ether) temples"
+    ],
+    "timings": {
+      "weekdays": "6:00 AM – 10:00 PM",
+      "weekends": "6:00 AM – 10:00 PM"
+    },
+    "peakCrowd": ["Arudra Darshan", "Weekday mornings best"],
+    "biggestHighlight": "Chidambara Rahasyam (formless Shiva)",
+    "nearestAccess": {
+      "airport": "Chennai",
+      "railway": "Chidambaram",
+      "road": "Road access"
+    },
+    "image": "chidambaram-nataraja-temple.jpg",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3911.1136678053235!2d79.69094437482772!3d11.39928968878985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a54c3b29fd11951%3A0x8479dd52acf29cbf!2sNataraja%20Temple!5e0!3m2!1sen!2sin!4v1768509033062!5m2!1sen!2sin"
+  },
+  {
+    "id": 19,
+    "name": "Kalighat Temple",
+    "location": "Kolkata, West Bengal",
+    "description": "Kalighat Temple is one of the fifty-one Shakti Peethas and is dedicated to Goddess Kali. It is believed that parts of Goddess Sati fell at this site, making it a powerful center of Shakti worship.",
+    "significance": ["One of the Shakti Peethas", "Dedicated to Goddess Kali"],
+    "timings": {
+      "weekdays": "5:00 AM – 10:00 PM",
+      "weekends": "5:00 AM – 10:00 PM"
+    },
+    "peakCrowd": ["Kali Puja and Navratri", "Early morning darshan ideal"],
+    "biggestHighlight": "Ancient idol worshipped in unique form",
+    "nearestAccess": {
+      "airport": "Kolkata",
+      "railway": "Sealdah / Howrah",
+      "road": "City transport"
+    },
+    "image": "kalighat-temple.jpg",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3685.570831272602!2d88.33951277508844!3d22.520279779528966!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a02774a41c0aeeb%3A0xd9189505f51dd4f!2sKalighat%20Kali%20Temple%20Adya%20Shaktipeeth!5e0!3m2!1sen!2sin!4v1768509072877!5m2!1sen!2sin"
+  },
+  {
+    "id": 20,
+    "name": "ISKCON Temple",
+    "location": "Vrindavan, Uttar Pradesh",
+    "description": "The ISKCON Temple in Vrindavan stands in the sacred land associated with Lord Krishna's childhood. It is known for its devotional atmosphere, continuous kirtans, and a strong global devotee community.",
+    "significance": ["Major Krishna temple", "Global ISKCON center"],
+    "timings": {
+      "weekdays": "4:30 AM – 1:00 PM, 4:00 PM – 8:30 PM",
+      "weekends": "4:30 AM – 1:00 PM, 4:00 PM – 8:30 PM"
+    },
+    "peakCrowd": ["Janmashtami and Holi", "Weekdays calm"],
+    "biggestHighlight": "Bhajan, kirtan and spiritual atmosphere",
+    "nearestAccess": {
+      "airport": "Delhi",
+      "railway": "Mathura",
+      "road": "Road from Mathura"
+    },
+    "image": "ISKCON-temple-vrindavan.jpg",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3536.681057832214!2d77.67482277526057!3d27.572407276260282!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39736e22b4da686f%3A0xb12573270e6273a1!2sSri%20Sri%20Krishna%20Balaram%20Mandir%20(ISKCON%20Vrindavan)!5e0!3m2!1sen!2sin!4v1768509133862!5m2!1sen!2sin"
+  }
+]
