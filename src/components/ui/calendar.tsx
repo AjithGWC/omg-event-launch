@@ -20,7 +20,7 @@ function Calendar({ className, classNames, showOutsideDays = true, ...props }: C
         nav: "space-x-1 flex items-center",
         nav_button: cn(
           buttonVariants({ variant: "outline" }),
-          "h-7 w-7 bg-transparent p-0 opacity-50 hover:opacity-100",
+          "h-7 w-7 bg-transparent p-0 opacity-50 hover:opacity-100 [&>svg]:h-4 [&>svg]:w-4",
         ),
         nav_button_previous: "absolute left-1",
         nav_button_next: "absolute right-1",
@@ -40,18 +40,6 @@ function Calendar({ className, classNames, showOutsideDays = true, ...props }: C
         day_range_middle: "aria-selected:bg-accent aria-selected:text-accent-foreground",
         day_hidden: "invisible",
         ...classNames,
-      }}
-      components={{
-        Chevron: (props: { 
-          orientation?: "left" | "right" | "up" | "down";
-          className?: string;
-          size?: number;
-          disabled?: boolean;
-        }) => {
-          const { orientation, className } = props;
-          const Icon = orientation === "left" ? ChevronLeft : ChevronRight;
-          return <Icon className={cn("h-4 w-4", className)} />;
-        },
       }}
       {...props}
     />

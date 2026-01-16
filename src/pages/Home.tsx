@@ -570,7 +570,7 @@ const Home = () => {
               <div className="w-full border-t border-dashed border-white/80" />
 
               <p className="text-white/80 text-sm md:text-base mt-8 mb-4">The Spiritual Experience Zones</p>
-              <p className="text-white/80 text-sm md:text-base mb-4">The Spiritual Experience Zones</p>
+              {/* <p className="text-white/80 text-sm md:text-base mb-4">The Spiritual Experience Zones</p> */}
               <ul className="space-y-2 text-white/90 text-sm md:text-base">
                 <li className="flex items-start gap-2">
                   <span className="text-omg-red mt-1">•</span>
