@@ -10,10 +10,21 @@ import templeImage from '../assets/home-mobile-temple-image.png';
 import templeCloudImage from '../assets/templeCloud.png';
 import shivaRedBg from '../assets/shiva-red-bg.png';
 import { Calendar, MapPin, Play, Sparkle } from 'lucide-react';
+import { ReelData, ReelsPlayer } from '../components/reelsPlayer';
 
 const Home = () => {
   const [isRegistrationOpen, setIsRegistrationOpen] = useState(false);
   const [isBookingOpen, setIsBookingOpen] = useState(false);
+
+  const reelVideos: ReelData[] = [
+    {
+      id: '1',
+      type: 'video',
+      url: 'https://zonic.b-cdn.net/OMG/OMG%20Overall%20Video%201.mp4',
+      title: 'OMG Overall',
+      desc: 'Experience the brand',
+    }
+  ];
 
   return (
     <div className="min-h-screen bg-white">
@@ -83,9 +94,9 @@ const Home = () => {
 
                       {/* Bottom */}
                       <div className="flex items-center justify-between mt-2 mb-8">
-                      <button
-                        onClick={() => setIsRegistrationOpen(true)}
-                        className="
+                        <button
+                          onClick={() => setIsRegistrationOpen(true)}
+                          className="
                           px-6 py-2
                           bg-omg-red text-white
                           rounded-xl
@@ -95,9 +106,9 @@ const Home = () => {
                           hover:bg-[#b91c1c]
                           transition
                         "
-                      >
-                        Register for Free
-                      </button>
+                        >
+                          Register for Free
+                        </button>
 
 
                         {/* <div className="text-white text-xs text-right">
@@ -363,11 +374,23 @@ const Home = () => {
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-0 lg:gap-8 items-center">
             {/* Left Section - Temple Image */}
             <div className="order-1 lg:order-1 flex items-center justify-center">
-              <img
+              {/* <img
                 src={templeImage}
                 alt="Temple at sunset"
                 className="w-72 rounded-2xl shadow-2xl object-cover"
-              />
+              /> */}
+              <div
+                className="relative w-full max-w-[300px] sm:max-w-[340px] aspect-[9/18] lg:h-[637px] rounded-[3rem] border-[10px] border-[#1A1A1A] bg-black shadow-2xl overflow-hidden"
+              >
+                {/* Content */}
+                <div className="absolute inset-0 z-10">
+                  <ReelsPlayer videos={reelVideos} />
+                </div>
+
+                {/* Device UI Details */}
+                <div className="absolute top-0 left-1/2 -translate-x-1/2 w-28 h-6 bg-[#1A1A1A] rounded-b-2xl z-30" />
+                <div className="absolute bottom-2 left-1/2 -translate-x-1/2 w-24 h-1 bg-white/20 rounded-full z-30" />
+              </div>
             </div>
 
             {/* Right Section - Content */}
@@ -396,7 +419,7 @@ const Home = () => {
 
               {/* Call-to-Action Button */}
               <div className="w-full flex justify-center">
-                <button 
+                <button
                   onClick={() => setIsBookingOpen(true)}
                   className="px-8 py-3 border-2 border-omg-red text-omg-red bg-white rounded-lg hover:bg-omg-red hover:text-white transition-colors font-semibold text-base md:text-lg shadow-md"
                 >
@@ -661,7 +684,7 @@ const Home = () => {
                 </p>
 
                 {/* CTA */}
-                <button 
+                <button
                   onClick={() => setIsBookingOpen(true)}
                   className="px-8 md:px-12 py-3 md:py-4 bg-[#131A72] text-white rounded-lg md:rounded-xl font-semibold text-base md:text-lg hover:bg-[#1e40af] transition-colors shadow-lg"
                 >
